@@ -1,0 +1,28 @@
+name: devender
+favicon: null
+layout_spectrum: 0.025791873689740896
+typography_spectrum: 0.3911673123948276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6566596303600818
+  lightness: 0.014738447032868862
+  saturation: 0.24811718380078673
+  rhythmicContrast: 0.6799575285986066
+purpose: []
